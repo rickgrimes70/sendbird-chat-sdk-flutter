@@ -13,6 +13,7 @@ platforms:
   android:
   ios:
   web:
+  macos:
 
 dependencies:
   flutter:
